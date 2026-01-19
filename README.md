@@ -40,7 +40,9 @@ This project is a real-time password strength checker developed using **Java Swi
 1. Clone the repository
 
 2. Compile the program:
-     javac PasswordCheck.java
+      ```bash
+   javac PasswordCheck.java
+      ```
 
 ---        
 📚 Learning Outcomes
